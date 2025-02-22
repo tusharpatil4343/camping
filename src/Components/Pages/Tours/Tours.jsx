@@ -155,6 +155,7 @@ const Tours = () => {
             color="primary"
           />
         </Box><br />
+        <br />
       </Container>
       <Footer/>
     </div>
